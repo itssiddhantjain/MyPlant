@@ -156,6 +156,19 @@ body {
     font-family: 'League Spartan', sans-serif;
     font-weight: 600;
 }
+
+#product1{
+    text-align: center;
+}
+
+.pro-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 #product1 .pro{
     width: 23%;
     min-width: 250px;
