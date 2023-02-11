@@ -1,0 +1,136 @@
+*,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    font-family: 'League Spartan', sans-serif;
+    justify-content: space-between;
+    box-shadow: 4px 4px 4px #d1caca;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.left_nav_content {
+    display: flex;
+    padding-right: 60px;
+    align-items: center;
+    font-size: medium;
+    font-weight: 600;
+}
+.left_nav_content a:hover {
+    color: rebeccapurple;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.left_nav_content a {
+    text-decoration: none;
+    color: black;
+}
+
+#Bag_icon {
+    height: 50px;
+    display: flex;
+}
+
+.right {
+    display: flex;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    /* margin-top: 190px; */
+}
+
+.headings {
+    display: flex;
+    flex-direction: column;
+}
+
+.heading1 {
+    display: flex;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    padding-bottom: 20px;
+    padding-left: 4px;
+}
+
+.heading2 {
+    display: flex;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700;
+    font-size: xxx-large;
+    padding-bottom: 5px;
+}
+
+
+.heading3 {
+    display: flex;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700;
+    font-size: xxx-large;
+    padding-bottom: 10px;
+    color: rebeccapurple;
+}
+
+.heading4 {
+    display: flex;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    padding-bottom: 5px;
+}
+.heading5 {
+    display: flex;
+    font-family: 'League Spartan', sans-serif;
+    justify-content: center;
+    font-weight: 600;
+    padding-top: 40px;
+    font-size: larger;
+    padding-bottom: 5px;
+    background: 2px solid black;
+}
+.heading5 a {
+    text-decoration: none;
+    background: 2px solid black;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.image1 {}
+
+#img1 {
+    height: 600px;
+    width: 690px;
+    padding-top: 54px;
+}
+.section2{
+ display: flex;
+ border: 2px solid black;
+}
+.features{
+    display: flex;
+    flex-direction: row;
+    
+}
