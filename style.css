@@ -266,7 +266,7 @@ body {
 }
 
 #product1 .pro:hover{
-    box-shadow: 20px 20px 30px rgba(0,0,0,0.06);
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.06);
 
 }
 
