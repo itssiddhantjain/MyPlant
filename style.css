@@ -220,6 +220,26 @@ body {
     padding: 6px;
     border-radius: 4px;
 }
+.section3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.feature_heading {
+    display: flex;
+    padding-bottom: 10px;
+    font-family: 'League Spartan', sans-serif;
+    font-size: larger;
+}
+.p1{
+    display: flex;
+    font-family: 'League Spartan', sans-serif; 
+    font-size: medium;
+}
 
 #product1{
     text-align: center;
