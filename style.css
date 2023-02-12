@@ -141,9 +141,9 @@ body {
     border: 2px solid grey;
     border-radius: 10px;
 }
-.feature-card-1 :hover{
+/* .feature-card-1 :hover{
    box-shadow: 4px 4px 4px gray ;
-}
+} */
 .feature-card-2 {
     display: flex;
     flex-direction: column;
@@ -181,9 +181,13 @@ body {
     border-radius: 10px;
 }
 
+.fea:hover{
+    box-shadow: 4px 4px 4px gray ;
+}
+
  #img1{
-  height: 100px;
-  width: 100px;
+  height: 24vw;
+  width: 24vw;
 }
  #img2{
   height: 100px;
